@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+* Whiskers on kittens
+* raindrops on something
+* I don't know what else
